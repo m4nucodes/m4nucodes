@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, I'm Emmanuel Espinal 👋🏻
 
-<!--
-**M4NU29/M4NU29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ec/)
 
-Here are some ideas to get you started:
+## 🚀 About me
+I'm a full stack developer with a primary focus on backend development, proficient in Python and JavaScript. My passion lies in crafting innovative solutions and fostering connections within the industry. I thrive on collaboration and enjoy working alongside fellow professionals to bring ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 I'm currently learning Artificial Intelligence and looking forward for Rust.
+- I love coding 👨🏻‍💻, exercising 🥋, reading 📚 and playing video games 🎮.
+
+## 🛠 Skills
+
+### Programming languages
+[![My Skills](https://skillicons.dev/icons?i=js,py&perline=8)](https://skillicons.dev)
+
+### Backend technologies
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs&perline=8)](https://skillicons.dev)
+
+### Frontend technologies
+[![My Skills](https://skillicons.dev/icons?i=css,html,react&perline=8)](https://skillicons.dev)
+
+### Databases & ORMs
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=8)](https://skillicons.dev)
+
+### Git & DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github&perline=8)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,linux,npm,postman,vscode&perline=8)](https://skillicons.dev)
+
+### I'm also familiar with
+[![My Skills](https://skillicons.dev/icons?i=django,dotnet,java,php&perline=8)](https://skillicons.dev)
