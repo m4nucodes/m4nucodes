@@ -17,7 +17,7 @@ I'm a full stack developer with a primary focus on backend development, proficie
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs&perline=8)](https://skillicons.dev)
 
 ### Frontend technologies
-[![My Skills](https://skillicons.dev/icons?i=css,html,react&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,react,tailwind&perline=8)](https://skillicons.dev)
 
 ### Databases & ORMs
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=8)](https://skillicons.dev)
@@ -29,4 +29,4 @@ I'm a full stack developer with a primary focus on backend development, proficie
 [![My Skills](https://skillicons.dev/icons?i=bash,figma,linux,npm,postman,vscode&perline=8)](https://skillicons.dev)
 
 ### I'm also familiar with
-[![My Skills](https://skillicons.dev/icons?i=django,dotnet,java,php&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,django,dotnet,java,php&perline=8)](https://skillicons.dev)
