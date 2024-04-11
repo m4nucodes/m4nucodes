@@ -26,7 +26,7 @@ I'm a full stack developer with a primary focus on backend development, proficie
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github&perline=8)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=bash,figma,linux,npm,postman,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,linux,npm,pnpm,postman,vscode&perline=8)](https://skillicons.dev)
 
 ### I'm also familiar with
 [![My Skills](https://skillicons.dev/icons?i=cs,django,dotnet,java,php&perline=8)](https://skillicons.dev)
