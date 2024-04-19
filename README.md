@@ -17,7 +17,7 @@ I'm a full stack developer with a primary focus on backend development, proficie
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs&perline=8)](https://skillicons.dev)
 
 ### Frontend technologies
-[![My Skills](https://skillicons.dev/icons?i=css,html,react,tailwind&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,react,tailwind,webpack&perline=8)](https://skillicons.dev)
 
 ### Databases & ORMs
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=8)](https://skillicons.dev)
