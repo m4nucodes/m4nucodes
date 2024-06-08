@@ -5,7 +5,7 @@
 ## 🚀 About me
 I'm a full stack developer with a primary focus on backend development, proficient in Python and JavaScript. My passion lies in crafting innovative solutions and fostering connections within the industry. I thrive on collaboration and enjoy working alongside fellow professionals to bring ideas to life.
 
-- 🧠 I'm currently learning Artificial Intelligence and looking forward for Rust.
+- 🧠 I'm currently learning Artificial Intelligence and looking forward to learning Rust.
 - 👨🏻‍💻🥋📚🎮 I love coding, exercising, reading and playing video games.
 
 ## 🛠 Skills
