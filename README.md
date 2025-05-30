@@ -12,7 +12,7 @@ I love coding 👨🏻‍💻, exercising 🥋, reading 📚, and playing video 
 ## 🛠 Skills
 
 ### Programming languages
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,py&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,kotlin,py,ts&perline=8)](https://skillicons.dev)
 
 ### Backend technologies
 [![My Skills](https://skillicons.dev/icons?i=express,fastapi,nodejs&perline=8)](https://skillicons.dev)
@@ -21,10 +21,10 @@ I love coding 👨🏻‍💻, exercising 🥋, reading 📚, and playing video 
 [![My Skills](https://skillicons.dev/icons?i=css,html,react,tailwind&perline=8)](https://skillicons.dev)
 
 ### Databases & ORMs
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma,sqlite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=hibernate,mongodb,postgres,prisma,sqlite&perline=8)](https://skillicons.dev)
 
 ### Git & DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,openshift&perline=8)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,figma,linux,pnpm,postman,vscodium&perline=8)](https://skillicons.dev)
