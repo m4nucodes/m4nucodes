@@ -12,6 +12,6 @@ My goal is to specialize in Artificial Intelligence 🧠 and optimization 🚀.
 
 I love coding 👨🏻‍💻, exercising 🥋, reading 📚, and playing video games 🎮.
 
-## 🛠 Skills
+## 🛠 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arch,bash,bitbucket,cloudflare,css,docker,express,fastapi,figma,git,github,gitlab,go,hibernate,html,java,js,kotlin,linux,mongodb,nodejs,openshift,pnpm,postgres,postman,py,tailwind,ts,vscode&perline=15)](https://skillicons.dev)
+[![My Stack](https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,bash,bitbucket,brave,claude,cloudflare,confluence,css,datagrip,docker,drizzle,expressjs,fastapi,figma,git,github,githubcopilot,gitlab,golang,hibernate,html,insomnia,java,javascript,jetpackcompose,kotlin,linux,markdown,mongodb,nodejs,openshift,pnpm,postgresql,python,quarkus,tailwindcss,terminal,typescript,vscode&perline=20)](https://skillicons.dev)
