@@ -14,4 +14,4 @@ I love coding 👨🏻‍💻, exercising 🥋, reading 📚, and playing video 
 
 ## 🛠 Stack
 
-[![My Stack](https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,bash,bitbucket,brave,claude,cloudflare,confluence,css,datagrip,docker,drizzle,expressjs,fastapi,figma,git,github,githubcopilot,gitlab,golang,hibernate,html,insomnia,java,javascript,jetpackcompose,kotlin,linux,markdown,mongodb,nodejs,openshift,pnpm,postgresql,python,quarkus,tailwindcss,terminal,typescript,vscode&perline=20)](https://skillicons.dev)
+[![My Stack](https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,bash,bitbucket,claude,cloudflare,css,datagrip,docker,drizzle,expressjs,fastapi,figma,git,github,githubcopilot,gitlab,golang,hibernate,html,insomnia,java,javascript,jetpackcompose,kotlin,linux,mongodb,nodejs,openshift,pnpm,postgresql,python,quarkus,tailwindcss,typescript,vscode&perline=12)](https://github.com/LelouchFR/skill-icons)
